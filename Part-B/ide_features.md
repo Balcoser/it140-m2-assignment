@@ -2,34 +2,22 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+This was my first time really working with programming and using an IDE, so at first, I was honestly pretty confused. As I worked through the assignment, I started to understand how the IDE helps you write, run and fix your code. The three features that stood out to me were syntax, highlighting, error detection and code completion. These features made coding feel less overwhelming because they helped me see how my code was organized and notice when something did not look right.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Syntax Highlighting
 
-## Feature 1 – TODO: Replace with name of your Feature1
+Syntax highlighting was one feature that helped me a lot because it made the code easier to look at and understand. Different parts of my code showed up in different colors which helped me tell things apart instead of everything looking the same. Since I am still new to programming this made the code feel less confusing and helped me notice when something did not look right. I think this is a helpful feature for beginners because it makes the code easier to read and follow.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Error Detection
 
-TODO: Replace with your Feature 1 paragraph here.
+Error detection was another feature that really helped me while working on my code. Since I am new to programming, I made mistakes without always realizing what I did wrong. Having the IDE point out errors helped me know where to look instead of trying to figure out the whole program by myself. It made fixing my mistakes a little less stressful and also helped me learn what I needed to change. I can see myself using this feature a lot as I continue learning Pyton.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Code Completion
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+Code completion was also helpful because it gave me suggestions while I was typing my code. Since I am still learning Python, I do not always remember exactly what I am supposed to type. Seeing suggestions made it easier to finish parts of my code and helped me avoid some typing mistakes. I liked this feature because it saved me time and made me feel a little more confident while working through the assigment.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+Overall, this assignment helped me get more comfortable with programming and using an IDE. I am still learning and I know I will make mistakes, but using features like syntax highlighting, error detection and code completion made the process easier for me. I feel more confident than I did when I first started and I know these tools will continue to help me as I learn more about programming.
 
-TODO: Replace with your conclusion here.
 
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
